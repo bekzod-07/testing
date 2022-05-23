@@ -1,0 +1,152 @@
+body{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	font-family: sans-serif;
+}
+.background{
+	background-image: url(./img/Layer6.png);
+	height: 1086px;
+}
+.background2{
+	padding: 100px 7%;
+}
+.background-title{
+	font-size: 150px;
+	color: #fff;
+	font-weight: bold;
+}
+.background-title span{
+	color: #ffff00;
+}
+.background-subtitle{
+	font-size: 15px;
+	color: #fff;
+	font-weight: bold;
+	width: 500px;
+}
+.background-subtitle span{
+	color: #ffff00;
+}
+.background2 a{
+	color: #fff000;
+	text-decoration: none;
+	font-size: 15px;
+	margin-top: 20px;
+	display: inline-block;
+}
+.main-page{
+	background-image: url(./img/Layer5.png);
+	margin: 37px 5% 0px;
+	height: 604px;
+}
+.main-page__name{
+	color: white;
+	font-weight: bold;
+	font-size: 70px;
+	padding: 100px 5% 0;
+}
+.main-page__name span{
+	color: #fff000;
+}
+.main-page__nav{
+	padding: 40px 5% 0;
+}
+.main-page__nav a{
+	color: #ffff00;
+	text-decoration: none;
+	font-size: 17px;
+	padding: 15px;
+	font-weight: bold;
+	letter-spacing: 1px;
+}
+
+.header2 {
+	display: flex;
+	justify-content: space-between;
+}
+
+.header-text1 {
+	margin-top: 50px;
+	margin-left: 70px;
+}
+
+.header-text2 {
+	font-size: 70px;
+}
+
+.header-text-span {
+	color: #fff000;
+}
+
+.header-text-p {
+	margin-left: 150px;
+	margin-top: 20px;
+}
+
+.section-img {
+	display: flex;
+}
+
+.section-text {
+	text-align: center;
+	display: flex;
+}
+
+.section-img-1 {
+	margin-left:400px ;
+}
+
+.section-img-2 {
+	margin-left:430px ;
+}
+
+.section-img-3 {
+	margin-left:430px ;
+}
+
+.section-text-1 {
+	margin-left: 300px;
+}
+
+.section-text-2 {
+	margin-left: 200px;
+}
+
+.section-text-3 {
+	margin-left: 200px;
+}
+
+.footer {
+	margin-top: 200px;
+}
+
+.footer-text-h1 {
+	font-size: 70px;
+	margin-left: 40px;
+}
+
+.footer-text-span {
+	color: #fff000;
+}
+
+.footer-text-li {
+	gap: 40px;
+	display: flex;
+}
+
+.footer-img-1 {
+	size: 400px;
+	display: flex;
+	margin: auto;
+	display: grid;
+	grid-template-columns: repeat(4, 1fr);
+	width: 100%;
+}
+.footer-img-1 img{
+	width:100%;
+}
+hr {
+	width: 250px;
+	margin-left: 200px;
+ }
